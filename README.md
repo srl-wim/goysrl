@@ -1,2 +1,2 @@
 # goysrl
- golang repo generate through ygot based on SRLinux Yang models
+ golang repo generated through ygot based on SRLinux Yang models
